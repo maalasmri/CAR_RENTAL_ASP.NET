@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="carRentalConnectionStringXXXX-Web.config Connection String" description="carRentalConnectionStringXXXX Connection String used in web.config by the application to access the database." defaultValue="Data Source=Data Source=SQL5052.site4now.net;Initial Catalog=db_a8aa72_carrental2022;User Id=db_a8aa72_carrental2022_admin;Password=Sma123321s" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\a4265\\source\\repos\\KFMCproject\\KFMCproject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='carRentalConnectionStringXXXX']/@connectionString" />
-  </parameter>
-  <parameter name="carRentalConnectionString-Web.config Connection String" description="carRentalConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5110.site4now.net;Initial Catalog=db_a9d392_carrental2023;User Id=db_a9d392_carrental2023_admin;Password=Sma419006629s@" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\a4265\\source\\repos\\KFMCproject\\KFMCproject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='carRentalConnectionString']/@connectionString" />
-  </parameter>
-</parameters>
